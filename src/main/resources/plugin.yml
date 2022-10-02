@@ -1,0 +1,9 @@
+name: Path
+version: '${version}'
+main: dev.jxnnik.path.Path
+api-version: 1.19
+author: Jxnnik(ByRaudy)
+website: https://jxnnik.dev
+
+commands:
+  path:
